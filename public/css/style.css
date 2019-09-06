@@ -1,0 +1,154 @@
+.dropdown-toggle:after{
+	display: none;
+}
+.header-search{
+	border: none;
+	font-size: 15px;
+}
+.category-menu{
+	width: 20%!important;
+	max-width: 20%!important
+}
+.icon-category{
+	width: 100%;
+}
+.banner-category{
+	width: 100%;
+	margin-bottom: 30px;
+}
+.bread-crumd{
+	list-style-type: none;
+}
+.bread-crumd li{
+	display: inline-block;
+	margin-right: 15px;
+}
+.price{
+	color: #ec1d17;
+	font-weight: 600;
+	display: block;
+	font-size: 20px;
+	margin-top: 5px;
+}
+.product-card:hover{
+	text-decoration: none;
+}
+.btn-bag{
+    display: block;
+    border: 0;
+    border:1px solid #343a40;
+    color: #343a40;
+    border-radius: 5px;
+    padding: 3px;
+    background: #f1f2f3;
+    font-size: 20px;
+    text-align: center;
+    width: 150px;
+    margin:10px auto;
+    cursor: pointer;
+    /*text-transform: uppercase;*/
+}
+.btn-bag:hover{
+	border:1px solid #FFF;
+    color: #FFF!important;
+    background:#343a40;
+}
+.admin-left-nav{
+	float: left;
+}
+.categories{
+	list-style-type: none;
+	color: blue;
+	padding: 0;
+}
+.danh_muc{
+	
+}
+.danh_muc a{
+	text-decoration: none;
+	color: #343a40!important;
+	font-weight: bold;
+	border: 1px solid #343a40;
+	margin-top: 5px;
+	text-align: left;
+ 	background: #f1f2f3;
+	height: 60px;
+	padding: 10px;
+	cursor: pointer;
+	display: block;
+}
+.danh_muc:hover a{
+	border:none;
+    color: #fff!important;
+    background:#343a40;
+}
+.btn-add-bag{
+	margin: 0;
+	display: block;
+	width: 200px;
+	font-size: 15px;
+	padding: 10px;
+	font-weight: bold;
+	border-width: 2px; 
+	float: left;
+	margin-right: 15px;
+}
+.btn-add-bag:hover{
+	border: 0;
+}
+.nav-front{
+	position: fixed;
+	width: 100%;
+	z-index: 1000;
+}
+.text-muted{
+	/*font-size: 40px;*/
+}
+.cart-qty-input{
+	width: 40px;
+	text-align: right;
+	margin:0 10px;
+	padding: 3px;
+}
+.form-cart-qty{
+	display: inline-block;
+}
+.cart-info tr td{
+	padding: 12px 15px;
+}
+.cart-info{
+	background: #fff;
+	border:1px solid #ccc;
+}
+.cart-items{
+	background: #fff;
+	border:1px solid #ccc;
+}
+.order-process{
+	text-decoration: none;
+	background: #343a40;
+	color: #fff;
+	display: block;
+}
+.order-process:hover{
+	text-decoration: none;
+	color: #fff;
+}
+.tabel-process-order tr td{
+	border:none!important;
+	padding: 15px 15px;
+}
+.tabel-process-order{
+	background: #fff;
+	border:1px solid #ccc;
+}
+.complete-div{
+	width: 600px;
+	margin:0 auto;
+	border: 1px solid #ccc;
+	padding: 50px;
+	border-radius: 5px;
+}
+.btn-bag:hover{
+	text-decoration: none;
+}
